@@ -1,0 +1,9 @@
+.center-algin {
+    margin: auto;
+    width: 80%;
+}
+
+.right {
+    float: right;
+    margin: 10px;
+}
